@@ -1,0 +1,134 @@
+.hero{
+    background:url(../img/01.png);
+     background-repeat: no-repeat;
+     background-size: cover;                         
+}
+.hero  h1 {
+    font-size: 4.5rem;
+    margin-top: 187px;
+    color: white;
+    text-align: center;
+}
+.hero hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 1px solid rgba(0, 225, 225, 0.1);
+    background-color: #008eff;
+    height: 1px;
+    margin-top: 46px;
+    width: 435px;
+}
+.hero p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    text-align: center;
+    margin-top: 39px;
+    color: white;
+}
+.hero button {
+    background-color: #ffffff00;
+    padding: 12px 13px;
+    border-color: aqua;
+    display: block;
+    margin: auto;
+    margin-top: 30px;
+}
+i.fa.fa-chevron-down {
+    color: white;
+    margin-left: 49%;
+    margin-top: 34%;
+}
+.hero2 h3 {
+    margin-top: 87px;
+    text-align: center;
+}
+.hero3 img {
+    vertical-align: middle;
+    border-style: none;
+    display: block;
+    margin: auto;
+    margin-bottom: 30px;
+}
+.hero3 h3 {
+    font-size: 1.75rem;
+    text-align: center;
+}
+
+.hero3 p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    text-align: center;
+    margin-top: 27px;
+}
+.hero3{
+    margin-top: 60px;
+}
+.hero4{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.hero4 h1{
+    text-align: center;
+}
+.hero4 p{
+    text-align: center;
+}
+section.head {
+    padding: 14px;
+}
+.hero5 img{
+    margin-bottom: 20px;
+    
+}
+.hero5{
+    margin-bottom: 100px;
+}
+.hero6{
+    background: url(../img/lastbg.png);
+    height: 600px;
+}
+.hero6txt {
+text-align: center;
+color: #fff;
+margin-top: 30px;
+}
+.hero6txt h3{
+    font-size: 50px;
+}
+.form1 {
+    width: 100%;
+    margin-top: 20px;
+    padding: 9px 20px;
+    background: transparent;
+    border: 1px solid #8b8989;
+    color: aliceblue;
+}
+.form2 {
+    width: 100%;
+    margin-top: 20px;
+    padding: 9px 20px 70px 15px;
+    background: transparent;
+    border: 1px solid #8b8989;
+    color: aliceblue;
+}
+#chak{
+    width: 30px;
+}
+.hero6 button {
+    float: right;
+    background-color: transparent;
+    padding: 10px 35px;
+    border: 1px solid #0892ca;
+    color: white;
+}
+.futter{
+    height: 70px;
+}
+.copy{
+    margin-top: 20px;
+}
+.icon {
+    float: right;
+    margin-top: -28px;
+}
